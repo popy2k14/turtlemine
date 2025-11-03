@@ -31,7 +31,7 @@
 
             <RegistryValue Root="HKCR" Key="CLSID\{55B7DC40-2D4A-46AB-8884-329A02D26EDF}\InprocServer32\[ProductVersion]"
                            Name="Assembly"
-                           Value="TurtleMine, Version=[ProductVersion], Culture=neutral, PublicKeyToken=fc308a7ee965bebf"
+                           Value="TurtleMine, Version=[ProductVersion], Culture=neutral, PublicKeyToken=5f438657e32923fd"
                            Type="string" Action="write" />
 
             <RegistryValue Root="HKCR" Key="CLSID\{55B7DC40-2D4A-46AB-8884-329A02D26EDF}\InprocServer32\[ProductVersion]"
@@ -45,7 +45,7 @@
 
             <RegistryValue Root="HKCR" Key="CLSID\{55B7DC40-2D4A-46AB-8884-329A02D26EDF}\InprocServer32"
                            Name="Assembly"
-                           Value="TurtleMine, Version=[ProductVersion], Culture=neutral, PublicKeyToken=fc308a7ee965bebf"
+                           Value="TurtleMine, Version=[ProductVersion], Culture=neutral, PublicKeyToken=5f438657e32923fd"
                            Type="string" Action="write" />
 
             <RegistryValue Root="HKCR" Key="CLSID\{55B7DC40-2D4A-46AB-8884-329A02D26EDF}\InprocServer32"
